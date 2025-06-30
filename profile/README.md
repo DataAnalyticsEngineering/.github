@@ -1,0 +1,1 @@
+Welcome to the Data Analytics in Engineering research group is located at the University of Stuttgart, Institute of Applied Mechanics (CE) and the SC SimTech.
